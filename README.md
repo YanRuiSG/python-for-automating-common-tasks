@@ -10,5 +10,5 @@ A context manager will be defined and used for temporary access to the new folde
 
 ### Python script for converting values to a homogeneous set (standardizing_values_using_regex.py)
 
-Regular expression from the re library will be used for testing matches before converting each different expressions
-of a value to a homogeneous set of values
+Regular expression from the re library will be used for testing matches before converting each different expression
+of values to a homogeneous set of values
